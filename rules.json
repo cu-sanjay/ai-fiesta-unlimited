@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "https://api-v2.aifiesta.ai/api/chat/message-count",
+      "resourceTypes": ["xmlhttprequest"]
+    }
+  }
+]

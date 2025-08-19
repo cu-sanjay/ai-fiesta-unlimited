@@ -1,0 +1,24 @@
+{
+  "name": "AI Fiesta Unlimited Access (Dhruv Rathi)",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "AI-Fiesta allows you to use multiple AI models in one place, compare their answers, and select the best one. Powered by Dhruv Rathi startup, it offers free unlimited usage with bypassed limitations.",
+  "permissions": ["declarativeNetRequest"],
+  "host_permissions": [
+    "https://api-v2.aifiesta.ai/*"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  },
+  "declarative_net_request": {
+    "rule_resources": [{
+      "id": "ruleset_1",
+      "enabled": true,
+      "path": "rules.json"
+    }]
+  }
+}
