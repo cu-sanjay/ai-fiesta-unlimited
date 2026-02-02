@@ -1,6 +1,9 @@
 # AI Fiesta Unlimited Usage
 
-[AI Fiesta.ai](https://aifiesta.ai/) (Dhruv Rathi Startup) Unlimited Free Usage Bypass.
+[AI Fiesta.ai](https://aifiesta.ai/) (Dhruv Rathee Startup) Unlimited Free Usage Bypass.
+
+> [!IMPORTANT]
+> This bug appears to have been fixed by the Aifiesta development team. The period of unlimited premium usage has therefore ended. I will continue monitoring for new API endpoint issues, and if any are found, the script will be updated accordingly. Until then, have a good day.
 
 ## Features
 - Simplifies AI Fiesta.ai API usage for unlimited access
